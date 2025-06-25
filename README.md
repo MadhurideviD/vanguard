@@ -1,1 +1,1 @@
-# vanguard_project
+# Vanguard
